@@ -21,15 +21,13 @@ Scaffolder is a command-line tool written in Python that helps developers create
 2. Navigate to the project directory:
 
    ```bash
-   cd project-scaffolder
+   cd scaffolder
    ```
-
-3. Install the required dependencies (not applicable for this project).
 
 4. Run the `main.py` script:
 
    ```bash
-   python main.py
+   ./main.py
    ```
 
 5. Follow the prompts to specify the type of project and the directory where the project structure should be generated.
